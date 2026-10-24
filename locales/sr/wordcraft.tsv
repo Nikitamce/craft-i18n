@@ -1966,3 +1966,25 @@
 	{width} × {height} pixels	{width} × {height} пиксела
 	{words} words	{words} речи
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) није број.
+	Left of the item	Лево од објекта
+	Right of the item	Десно од објекта
+	From the style	Из стила
+	Caption style:	Стил натписа:
+	Label number: title	Ознака број: назив
+	Label number – title	Ознака број – назив
+	Label number. title	Ознака број. назив
+	Label and number	Ознака и број
+	Number in parentheses	Број у заградама
+	Custom template	Сопствени шаблон
+	Template:	Шаблон:
+	Title separator:	Раздвајач назива:
+	(space)	(размак)
+	Number:	Број:
+	Presets:	Узорци:
+	As in Word	Као у Word-у
+	Figure caption	Натпис слике
+	Table caption	Натпис табеле
+	Equation number	Број формуле
+	Figure Caption	Натпис слике
+	Table Caption	Натпис табеле
+	Equation Caption	Натпис формуле

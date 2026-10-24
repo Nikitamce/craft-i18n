@@ -2001,3 +2001,24 @@
 	{width} × {height} pixels	{width} × {height} piksela
 	{words} words	{words} reči
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nije broj.
+	Left of the item	Levo od objekta
+	Right of the item	Desno od objekta
+	From the style	Iz stila
+	Caption style:	Stil natpisa:
+	Label number: title	Oznaka broj: naziv
+	Label number – title	Oznaka broj – naziv
+	Label number. title	Oznaka broj. naziv
+	Label and number	Oznaka i broj
+	Number in parentheses	Broj u zagradama
+	Custom template	Sopstveni šablon
+	Template:	Šablon:
+	Title separator:	Razdvojač naziva:
+	(space)	(razmak)
+	Number:	Broj:
+	As in Word	Kao u Word-u
+	Figure caption	Natpis slike
+	Table caption	Natpis tabele
+	Equation number	Broj formule
+	Figure Caption	Natpis slike
+	Table Caption	Natpis tabele
+	Equation Caption	Natpis formule

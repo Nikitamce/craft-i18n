@@ -2343,3 +2343,24 @@ preview	Title	Örnek
 	{words} words	{words} sözcük
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok
+	Left of the item	Nesnenin solunda
+	Right of the item	Nesnenin sağında
+	From the style	Stilden
+	Caption style:	Başlık stili:
+	Label number: title	Etiket numara: başlık
+	Label number – title	Etiket numara – başlık
+	Label number. title	Etiket numara. başlık
+	Label and number	Etiket ve numara
+	Number in parentheses	Parantez içinde numara
+	Custom template	Özel şablon
+	Template:	Şablon:
+	Title separator:	Başlık ayırıcısı:
+	(space)	(boşluk)
+	Number:	Numara:
+	As in Word	Word’deki gibi
+	Figure caption	Şekil başlığı
+	Table caption	Tablo başlığı
+	Equation number	Formül numarası
+	Figure Caption	Şekil başlığı
+	Table Caption	Tablo başlığı
+	Equation Caption	Formül başlığı

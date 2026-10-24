@@ -2051,3 +2051,24 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 個字
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}，{series}）不是數字。
+	Left of the item	物件左側
+	Right of the item	物件右側
+	From the style	依樣式
+	Caption style:	標號樣式:
+	Label number: title	標籤 編號: 標題
+	Label number – title	標籤 編號 – 標題
+	Label number. title	標籤 編號. 標題
+	Label and number	標籤和編號
+	Number in parentheses	括號中的編號
+	Custom template	自訂範本
+	Template:	範本:
+	Title separator:	標題分隔符號:
+	(space)	(空格)
+	Number:	編號:
+	As in Word	與 Word 相同
+	Figure caption	圖說
+	Table caption	表說
+	Equation number	公式編號
+	Figure Caption	圖說
+	Table Caption	表說
+	Equation Caption	公式標號

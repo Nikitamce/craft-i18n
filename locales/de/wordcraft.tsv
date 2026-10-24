@@ -2040,3 +2040,24 @@
 	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
+	Left of the item	Links vom Objekt
+	Right of the item	Rechts vom Objekt
+	From the style	Aus dem Format
+	Caption style:	Beschriftungsformat:
+	Label number: title	Bezeichnung Nummer: Titel
+	Label number – title	Bezeichnung Nummer – Titel
+	Label number. title	Bezeichnung Nummer. Titel
+	Label and number	Bezeichnung und Nummer
+	Number in parentheses	Nummer in Klammern
+	Custom template	Eigene Vorlage
+	Template:	Vorlage:
+	Title separator:	Trennzeichen des Titels:
+	(space)	(Leerzeichen)
+	Number:	Nummer:
+	As in Word	Wie in Word
+	Figure caption	Abbildungsbeschriftung
+	Table caption	Tabellenbeschriftung
+	Equation number	Formelnummer
+	Figure Caption	Abbildungsbeschriftung
+	Table Caption	Tabellenbeschriftung
+	Equation Caption	Formelbeschriftung

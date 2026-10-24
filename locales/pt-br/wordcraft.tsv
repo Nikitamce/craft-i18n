@@ -2015,3 +2015,24 @@
 	{width} × {height} pixels	{width} × {height} pixels
 	{words} words	Palavras: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
+	Left of the item	À esquerda do objeto
+	Right of the item	À direita do objeto
+	From the style	Conforme o estilo
+	Caption style:	Estilo da legenda:
+	Label number: title	Rótulo número: título
+	Label number – title	Rótulo número – título
+	Label number. title	Rótulo número. título
+	Label and number	Rótulo e número
+	Number in parentheses	Número entre parênteses
+	Custom template	Modelo personalizado
+	Template:	Modelo:
+	Title separator:	Separador do título:
+	(space)	(espaço)
+	Number:	Número:
+	As in Word	Como no Word
+	Figure caption	Legenda da figura
+	Table caption	Legenda da tabela
+	Equation number	Número da fórmula
+	Figure Caption	Legenda da figura
+	Table Caption	Legenda da tabela
+	Equation Caption	Legenda da fórmula

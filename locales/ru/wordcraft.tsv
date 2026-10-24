@@ -2359,3 +2359,24 @@ preview	Title	Пример
 	{words} words	Слов: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+	Left of the item	Слева от объекта
+	Right of the item	Справа от объекта
+	From the style	Как в стиле
+	Caption style:	Стиль подписи:
+	Label number: title	Подпись, номер: название
+	Label number – title	Подпись, номер – название
+	Label number. title	Подпись, номер. название
+	Label and number	Подпись и номер
+	Number in parentheses	Номер в скобках
+	Custom template	Свой шаблон
+	Template:	Шаблон:
+	Title separator:	Разделитель названия:
+	(space)	(пробел)
+	Number:	Номер:
+	As in Word	Как в Word
+	Figure caption	Подпись рисунка
+	Table caption	Подпись таблицы
+	Equation number	Номер формулы
+	Figure Caption	Подпись рисунка
+	Table Caption	Подпись таблицы
+	Equation Caption	Подпись формулы

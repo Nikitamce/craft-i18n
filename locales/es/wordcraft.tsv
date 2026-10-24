@@ -2312,3 +2312,24 @@ preview	Title	Título
 	{words} words	{words} palabras
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) no es un número.
 	✓ None	✓ Ninguno
+	Left of the item	A la izquierda del objeto
+	Right of the item	A la derecha del objeto
+	From the style	Según el estilo
+	Caption style:	Estilo del título:
+	Label number: title	Etiqueta número: título
+	Label number – title	Etiqueta número – título
+	Label number. title	Etiqueta número. título
+	Label and number	Etiqueta y número
+	Number in parentheses	Número entre paréntesis
+	Custom template	Plantilla personalizada
+	Template:	Plantilla:
+	Title separator:	Separador del título:
+	(space)	(espacio)
+	Number:	Número:
+	As in Word	Como en Word
+	Figure caption	Título de figura
+	Table caption	Título de tabla
+	Equation number	Número de fórmula
+	Figure Caption	Título de figura
+	Table Caption	Título de tabla
+	Equation Caption	Título de fórmula

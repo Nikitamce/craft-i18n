@@ -2058,3 +2058,24 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 个字
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
+	Left of the item	对象左侧
+	Right of the item	对象右侧
+	From the style	使用样式
+	Caption style:	题注样式:
+	Label number: title	标签 编号: 标题
+	Label number – title	标签 编号 – 标题
+	Label number. title	标签 编号. 标题
+	Label and number	标签和编号
+	Number in parentheses	带括号的编号
+	Custom template	自定义模板
+	Template:	模板:
+	Title separator:	标题分隔符:
+	(space)	(空格)
+	Number:	编号:
+	As in Word	与 Word 相同
+	Figure caption	图题
+	Table caption	表题
+	Equation number	公式编号
+	Figure Caption	图题
+	Table Caption	表题
+	Equation Caption	公式题注

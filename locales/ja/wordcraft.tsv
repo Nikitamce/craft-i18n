@@ -2091,3 +2091,24 @@
 	{width} × {height} pixels	{width} × {height} ピクセル
 	{words} words	{words} 語
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}、{series}）は数値ではありません。
+	Left of the item	オブジェクトの左
+	Right of the item	オブジェクトの右
+	From the style	スタイルに従う
+	Caption style:	キャプションのスタイル:
+	Label number: title	ラベル 番号: 題名
+	Label number – title	ラベル 番号 – 題名
+	Label number. title	ラベル 番号. 題名
+	Label and number	ラベルと番号
+	Number in parentheses	括弧付きの番号
+	Custom template	ユーザー設定のテンプレート
+	Template:	テンプレート:
+	Title separator:	題名の区切り:
+	(space)	(スペース)
+	Number:	番号:
+	As in Word	Word と同様
+	Figure caption	図のキャプション
+	Table caption	表のキャプション
+	Equation number	数式番号
+	Figure Caption	図のキャプション
+	Table Caption	表のキャプション
+	Equation Caption	数式のキャプション

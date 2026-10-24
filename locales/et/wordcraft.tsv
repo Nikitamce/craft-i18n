@@ -1986,3 +1986,25 @@
 	{width} × {height} pixels	{width} × {height} pikslit
 	{words} words	Sõnu: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
+	Left of the item	Objektist vasakul
+	Right of the item	Objektist paremal
+	From the style	Laadist
+	Caption style:	Allkirja laad:
+	Label number: title	Silt number: pealkiri
+	Label number – title	Silt number – pealkiri
+	Label number. title	Silt number. pealkiri
+	Label and number	Silt ja number
+	Number in parentheses	Number sulgudes
+	Custom template	Oma mall
+	Template:	Mall:
+	Title separator:	Pealkirja eraldaja:
+	(space)	(tühik)
+	Number:	Number:
+	Presets:	Eelseaded:
+	As in Word	Nagu Wordis
+	Figure caption	Joonise allkiri
+	Table caption	Tabeli allkiri
+	Equation number	Valemi number
+	Figure Caption	Joonise allkiri
+	Table Caption	Tabeli allkiri
+	Equation Caption	Valemi allkiri

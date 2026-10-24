@@ -2371,3 +2371,24 @@
 	{words} words	Думи: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) не е число.
 	✓ None	✓ Няма
+	Left of the item	Отляво на обекта
+	Right of the item	Отдясно на обекта
+	From the style	От стила
+	Caption style:	Стил на надписа:
+	Label number: title	Етикет номер: заглавие
+	Label number – title	Етикет номер – заглавие
+	Label number. title	Етикет номер. заглавие
+	Label and number	Етикет и номер
+	Number in parentheses	Номер в скоби
+	Custom template	Собствен шаблон
+	Template:	Шаблон:
+	Title separator:	Разделител на заглавието:
+	(space)	(интервал)
+	Number:	Номер:
+	As in Word	Като в Word
+	Figure caption	Надпис на фигура
+	Table caption	Надпис на таблица
+	Equation number	Номер на формула
+	Figure Caption	Надпис на фигура
+	Table Caption	Надпис на таблица
+	Equation Caption	Надпис на формула

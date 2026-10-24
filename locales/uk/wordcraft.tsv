@@ -2066,3 +2066,24 @@
 	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
+	Left of the item	Ліворуч від об’єкта
+	Right of the item	Праворуч від об’єкта
+	From the style	Як у стилі
+	Caption style:	Стиль підпису:
+	Label number: title	Підпис, номер: назва
+	Label number – title	Підпис, номер – назва
+	Label number. title	Підпис, номер. назва
+	Label and number	Підпис і номер
+	Number in parentheses	Номер у дужках
+	Custom template	Власний шаблон
+	Template:	Шаблон:
+	Title separator:	Роздільник назви:
+	(space)	(пробіл)
+	Number:	Номер:
+	As in Word	Як у Word
+	Figure caption	Підпис рисунка
+	Table caption	Підпис таблиці
+	Equation number	Номер формули
+	Figure Caption	Підпис рисунка
+	Table Caption	Підпис таблиці
+	Equation Caption	Підпис формули
